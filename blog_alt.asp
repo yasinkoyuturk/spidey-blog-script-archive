@@ -1,0 +1,1 @@
+<span class="site_alt_aciklamalar">CS Oyuncum.net Makale sistemi © v1.0 | Tüm haklarý <a href="mailto:info[a]oyuncum.net?subject=CS Oyuncum.net makale sistemi hakkýnda!&body=Makale sistemi hk."><span class="site_alt_aciklamalar">Yasin Koyutürk</span></a>'e aittir</span>
