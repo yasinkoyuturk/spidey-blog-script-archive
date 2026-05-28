@@ -7,13 +7,13 @@ This repository contains the original source code for the "Spidey Blog Script v1
 
 It was originally deployed on the legendary Turkish gaming portal infrastructure, oyuncum.net.
 
-**Note:** This code is strictly uploaded for digital archiving and internet archaeology purposes. It is not maintained for modern server environments.
+**Original Release / Active Link:** [View on ASPindir](https://www.aspindir.com/Goster/4205)
 
-## Developer & Author
-* **Yasin Koyutürk** (Alias: Spidey)
-* **Website:** [yasinkoyuturk.com](https://yasinkoyuturk.com/)
+**Developer:** Yasin Koyutürk ([yasinkoyuturk.com](https://yasinkoyuturk.com/))
 
-* ---
+**Note:** Uploaded solely for digital archiving and historical purposes.
+
+---
 
 ## Türkçe (In Turkish)
 Bu depo, 2006-2007 yılları arasında Yasin "Spidey" Koyutürk tarafından geliştirilmiş olan klasik ASP web scriptlerinin tarihsel bir arşividir. 
@@ -21,3 +21,9 @@ Bu depo, 2006-2007 yılları arasında Yasin "Spidey" Koyutürk tarafından geli
 Özellikle "Spidey Blog Script v1.5", 2000'li yılların başlarında Türkiye'nin önde gelen webmaster platformlarında (ASPindir, ASPRehberi) binlerce kez indirilmiş ve efsanevi oyun portalı oyuncum.net altyapısında kullanılmıştır.
 
 **Not:** Bu kodlar yalnızca dijital arşivleme ve internet arkeolojisi amacıyla yüklenmiştir. Modern sunucu altyapıları için güncellenmemektedir.
+
+**Orijinal Kaynak / Aktif Link:** [ASPindir Üzerinden İncele](https://www.aspindir.com/Goster/4205)
+
+**Geliştirici:** Yasin Koyutürk ([yasinkoyuturk.com](https://yasinkoyuturk.com/))
+
+**Not:** Sadece dijital arşivleme ve nostalji amacıyla eklenmiştir.
