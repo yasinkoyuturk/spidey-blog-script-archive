@@ -1,0 +1,57 @@
+Birden bire karar verip yaptýðým scriptlerden biri kendileri.Þimdilik örnek amaçlý yazmama raðmen ilerde 
+geliþtirmeyi düþünüyorum. 
+
+Kategorili bloglama sistemi,projelerim bölümü,kendinizi tanýtabileceðiniz 'ben' bölümü, baðlantýlarým bölümü, 
+bloglarda ve Google'da arama yapmak için arama bölümü ve tüm bunlarý yönetebileceðiniz sade ve kullanýþlý mükemmel 
+bir Yönetici bölümü.
+
+Yönetici bölümünde ise;
+ayarlar 		- Spidey Blog Script v.10'ýn temel ayarlarýný buradan deðiþtirebilirsiniz. 
+kullanýcý ayarlarý 	- Kullanýcý adýnýzý, þifrenizi vb. kiþisel bilgilerinizi deðiþtirebileceðiniz bölüm 
+projelerim bölümü 	- projelerinizi yönetebileceðiniz bölüm 
+blog bölümü 		-  blogunuza yeni yazýlar yazabilir, silebilir veyahut güncelleyebilirsiniz 
+baglantilar bölümü 	- baðlantýlar bölümünü düzenleyebilir, silebilir veya yeni baðlantýlar ekleyebilirsiniz 
+yeni resim yükle 	- upload/resimler klasörüne yeni bir resim yükleyebilirsiniz 
+sistemden çýkýþ 	- yönetici bölümünden güvenli çýkýþ 
+
+bölümleri bulunmaktadýr..
+
+
+
+Not: Makalelerim bölümü bir sonraki (v2.0) versiyonda açýlacaktýr :)
+
+(Yönetici adý ve þifresi: admin'dir) 
+
+Veritabaný adýný güvenlik nedeniyle (admin/db/veritabani.mdb) deðiþtirmelisiniz..
+deðiþtirdikten sonra ise;
+
+blog/admin/inc/baglan.asp  
+ve
+blog/inc/baglan.asp  dosyalarýndaki veritabaný adýnýda deðiþtirmelisiniz..
+
+Ýyi günlerde kullanýn, kötü günlerinizde kullanmanýz tavsite edilmez :Pp
+
+
+Sizlerle paylaþtýðým ilk scriptim olduðundan emeðe saygý istiyorum :)
+
+
+Scripti kullandýðýnýzda Allah rýzasý için bana bir haber verirseniz sevinirim :))
+Yani haberim olsun kullandýðýnýzdan da mutlu olayým.. :)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+>>Bu Script ASPindir.com'da ve ASPRehberi.net'de yer alýr!<<
+
+*
+***
+*****
+Test adresi: http://blog.turkbilgiforum.com veya http://oyuncum.net/blog
+*****
+***
+*
+
+Yasin Koyutürk | info@oyuncum.net
+
+http://www.oyuncum.net  |  Oyuncum.net		[Internet Portalýnýz]
+htttp://cs.oyuncum.net  |  CS Oyuncum.net	[Türkiye'nin Counter-Strike Portalý]
